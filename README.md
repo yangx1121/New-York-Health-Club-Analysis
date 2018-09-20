@@ -4,6 +4,7 @@
 * Pricing and Revenue Management course project, GWU
 * Time: Apr. 2018
 * Participant: Xuan Yang, Max Lei, Jiaying Shi
+* Instructor: Dr. Mehmet S. Altug(maltug@gwu.edu)
 
 ## Procedures: 
 * Goal: Proposed a pricing policy for New York Health Club (NYHC); 
